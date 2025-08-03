@@ -35,13 +35,6 @@ The project is structured to reflect a real-world business reporting tool that c
 
 
 ---
-
-## 🔍 Key Insights
-
-- ✅ **Completed Orders Increased**: From 22% in 202
-
-
-
 ## 🔍 Key Insights
 
 - ✅ **Completed Orders Increased**: From 22% in 2024 to 38% in 2025
