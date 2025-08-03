@@ -1,5 +1,8 @@
 # 📊 Dental Aligner Orders Analysis + Dashboard
  [project full documentation](https://www.notion.so/244424cb853680548014d86fcaedaff0?showMoveTo=true&saveParent=true)
+
+--- 
+
 This project showcases a complete data analysis dashboard built using **Microsoft Excel**. The dashboard explores order performance for dental aligners across different countries, focusing on trends in completed, cancelled, and failed orders over the years **2024–2025**.
 
 The goal is to deliver actionable insights using pivot tables, visualizations, and interactive elements like slicers to support better decision-making.
