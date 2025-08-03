@@ -1,6 +1,6 @@
 # 📊 Dental Aligner Orders Analysis + Dashboard
  [project full documentation](https://www.notion.so/244424cb853680548014d86fcaedaff0?showMoveTo=true&saveParent=true)
-<br> 
+
 [Executive Summary and Key Insights](https://www.notion.so/Dental-Aligner-Dataset-Key-Insights-244424cb85368065b8a9c650d29ac8bc?source=copy_link)
 --- 
 
